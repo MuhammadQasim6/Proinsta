@@ -1,1 +1,1 @@
-# Proinsta
+https://proinsta.online/graphql
